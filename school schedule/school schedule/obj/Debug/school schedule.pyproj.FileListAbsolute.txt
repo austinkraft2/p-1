@@ -1,0 +1,12 @@
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\bin\Debug\school schedule.exe.config
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\bin\Debug\school schedule.exe
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\bin\Debug\school schedule.dll
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\bin\Debug\IronPython.dll
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\bin\Debug\IronPython.Modules.dll
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\obj\Debug\school schedule.pyprojResolveAssemblyReference.cache
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\obj\Debug\school_schedule.MainForm.resources
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\obj\Debug\school schedule.pyproj.GenerateResource.Cache
+C:\Users\kraft.a\Desktop\p 1\school schedule\school schedule\obj\Debug\school schedule.exe

@@ -1,0 +1,12 @@
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\bin\Debug\favorite club.exe.config
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\bin\Debug\favorite club.exe
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\bin\Debug\favorite club.dll
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\bin\Debug\IronPython.dll
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\bin\Debug\IronPython.Modules.dll
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\obj\Debug\favorite club.pyprojResolveAssemblyReference.cache
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\obj\Debug\favorite_club.MainForm.resources
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\obj\Debug\favorite club.pyproj.GenerateResource.Cache
+C:\Users\kraft.a\Desktop\p 1\favorite club\favorite club\obj\Debug\favorite club.exe

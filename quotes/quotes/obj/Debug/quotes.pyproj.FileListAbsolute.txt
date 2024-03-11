@@ -1,0 +1,12 @@
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\bin\Debug\quotes.exe.config
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\bin\Debug\quotes.exe
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\bin\Debug\quotes.dll
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\bin\Debug\IronPython.dll
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\bin\Debug\IronPython.Modules.dll
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\obj\Debug\quotes.pyprojResolveAssemblyReference.cache
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\obj\Debug\quotes.MainForm.resources
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\obj\Debug\quotes.pyproj.GenerateResource.Cache
+C:\Users\kraft.a\Desktop\p 1\quotes\quotes\obj\Debug\quotes.exe

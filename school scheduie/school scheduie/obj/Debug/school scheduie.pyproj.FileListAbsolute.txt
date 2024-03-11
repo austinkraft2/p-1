@@ -1,0 +1,12 @@
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\bin\Debug\school scheduie.exe.config
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\bin\Debug\school scheduie.exe
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\bin\Debug\school scheduie.dll
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\bin\Debug\IronPython.dll
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\bin\Debug\IronPython.Modules.dll
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\obj\Debug\school scheduie.pyprojResolveAssemblyReference.cache
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\obj\Debug\school_scheduie.MainForm.resources
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\obj\Debug\school scheduie.pyproj.GenerateResource.Cache
+C:\Users\kraft.a\Desktop\p 1\school scheduie\school scheduie\obj\Debug\school scheduie.exe
