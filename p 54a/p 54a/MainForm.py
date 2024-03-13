@@ -108,7 +108,7 @@ class MainForm(Form):
 		self._button1.Name = "button1"
 		self._button1.Size = System.Drawing.Size(114, 55)
 		self._button1.TabIndex = 8
-		self._button1.Text = "button1"
+		self._button1.Text = "show"
 		self._button1.UseVisualStyleBackColor = False
 		self._button1.Click += self.Button1Click
 		# 
@@ -139,7 +139,7 @@ class MainForm(Form):
 		# MainForm
 		# 
 		self.BackColor = System.Drawing.Color.Chocolate
-		self.ClientSize = System.Drawing.Size(472, 283)
+		self.ClientSize = System.Drawing.Size(357, 275)
 		self.Controls.Add(self._button3)
 		self.Controls.Add(self._button2)
 		self.Controls.Add(self._button1)
@@ -167,8 +167,16 @@ class MainForm(Form):
 			gallons = 9
 			
 		if car == "1979 firebird":
-			miles = 345
-			gallons = 5
+			miles = 412
+			gallons = 40
+			
+		if car == "1980 subaru":
+			miles = 361
+			gallons = 18
+			
+		if car == "1975 cultiass":
+			miles = 161
+			gallons = 11
 			
 		mpg = miles / float(gallons)
 		mpg = round(mpg, 1)
