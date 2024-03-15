@@ -1,0 +1,3 @@
+C:\Users\kraft.a\Desktop\p 1\p93a\p93a\obj\Debug\p93a.pyprojResolveAssemblyReference.cache
+C:\Users\kraft.a\Desktop\p 1\p93a\p93a\obj\Debug\p93a.MainForm.resources
+C:\Users\kraft.a\Desktop\p 1\p93a\p93a\obj\Debug\p93a.pyproj.GenerateResource.Cache
