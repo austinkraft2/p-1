@@ -1,0 +1,12 @@
+C:\Users\kraft.a\Desktop\p 1\p122\p122\obj\Debug\p122.pyprojResolveAssemblyReference.cache
+C:\Users\kraft.a\Desktop\p 1\p122\p122\obj\Debug\p122.MainForm.resources
+C:\Users\kraft.a\Desktop\p 1\p122\p122\obj\Debug\p122.pyproj.GenerateResource.Cache
+C:\Users\kraft.a\Desktop\p 1\p122\p122\bin\Debug\p122.exe.config
+C:\Users\kraft.a\Desktop\p 1\p122\p122\bin\Debug\p122.exe
+C:\Users\kraft.a\Desktop\p 1\p122\p122\bin\Debug\p122.dll
+C:\Users\kraft.a\Desktop\p 1\p122\p122\bin\Debug\IronPython.dll
+C:\Users\kraft.a\Desktop\p 1\p122\p122\bin\Debug\IronPython.Modules.dll
+C:\Users\kraft.a\Desktop\p 1\p122\p122\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\kraft.a\Desktop\p 1\p122\p122\bin\Debug\Microsoft.Scripting.dll
+C:\Users\kraft.a\Desktop\p 1\p122\p122\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\kraft.a\Desktop\p 1\p122\p122\obj\Debug\p122.exe
