@@ -18,10 +18,14 @@ class MainForm(Form):
 		# 
 		# listBox1
 		# 
+		self._listBox1.BackColor = System.Drawing.Color.LightCoral
+		self._listBox1.Font = System.Drawing.Font("Microsoft Sans Serif", 9.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._listBox1.ForeColor = System.Drawing.Color.Black
 		self._listBox1.FormattingEnabled = True
+		self._listBox1.ItemHeight = 16
 		self._listBox1.Location = System.Drawing.Point(13, 13)
 		self._listBox1.Name = "listBox1"
-		self._listBox1.Size = System.Drawing.Size(392, 290)
+		self._listBox1.Size = System.Drawing.Size(392, 276)
 		self._listBox1.TabIndex = 0
 		# 
 		# button1
@@ -31,7 +35,6 @@ class MainForm(Form):
 		self._button1.Name = "button1"
 		self._button1.Size = System.Drawing.Size(106, 65)
 		self._button1.TabIndex = 1
-		self._button1.Text = "button1"
 		self._button1.UseVisualStyleBackColor = False
 		self._button1.Click += self.Button1Click
 		# 
@@ -42,7 +45,7 @@ class MainForm(Form):
 		self._button2.Name = "button2"
 		self._button2.Size = System.Drawing.Size(100, 65)
 		self._button2.TabIndex = 2
-		self._button2.Text = "button2"
+		self._button2.Text = "Cear"
 		self._button2.UseVisualStyleBackColor = False
 		self._button2.Click += self.Button2Click
 		# 
@@ -53,7 +56,7 @@ class MainForm(Form):
 		self._button3.Name = "button3"
 		self._button3.Size = System.Drawing.Size(106, 65)
 		self._button3.TabIndex = 3
-		self._button3.Text = "button3"
+		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = False
 		self._button3.Click += self.Button3Click
 		# 
