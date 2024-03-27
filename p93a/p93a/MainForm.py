@@ -29,7 +29,7 @@ class MainForm(Form):
 		# label1
 		# 
 		self._label1.BackColor = System.Drawing.Color.DarkSalmon
-		self._label1.Location = System.Drawing.Point(12, 273)
+		self._label1.Location = System.Drawing.Point(12, 41)
 		self._label1.Name = "label1"
 		self._label1.Size = System.Drawing.Size(100, 23)
 		self._label1.TabIndex = 0
@@ -38,7 +38,7 @@ class MainForm(Form):
 		# label2
 		# 
 		self._label2.BackColor = System.Drawing.Color.DarkSalmon
-		self._label2.Location = System.Drawing.Point(144, 449)
+		self._label2.Location = System.Drawing.Point(152, 180)
 		self._label2.Name = "label2"
 		self._label2.Size = System.Drawing.Size(100, 23)
 		self._label2.TabIndex = 1
@@ -46,7 +46,7 @@ class MainForm(Form):
 		# label3
 		# 
 		self._label3.BackColor = System.Drawing.Color.DarkSalmon
-		self._label3.Location = System.Drawing.Point(144, 404)
+		self._label3.Location = System.Drawing.Point(152, 146)
 		self._label3.Name = "label3"
 		self._label3.Size = System.Drawing.Size(100, 23)
 		self._label3.TabIndex = 2
@@ -54,7 +54,7 @@ class MainForm(Form):
 		# label4
 		# 
 		self._label4.BackColor = System.Drawing.Color.DarkSalmon
-		self._label4.Location = System.Drawing.Point(144, 359)
+		self._label4.Location = System.Drawing.Point(152, 111)
 		self._label4.Name = "label4"
 		self._label4.Size = System.Drawing.Size(100, 23)
 		self._label4.TabIndex = 3
@@ -62,7 +62,7 @@ class MainForm(Form):
 		# label5
 		# 
 		self._label5.BackColor = System.Drawing.Color.DarkSalmon
-		self._label5.Location = System.Drawing.Point(144, 314)
+		self._label5.Location = System.Drawing.Point(152, 74)
 		self._label5.Name = "label5"
 		self._label5.Size = System.Drawing.Size(100, 23)
 		self._label5.TabIndex = 4
@@ -70,7 +70,7 @@ class MainForm(Form):
 		# label6
 		# 
 		self._label6.BackColor = System.Drawing.Color.DarkSalmon
-		self._label6.Location = System.Drawing.Point(12, 449)
+		self._label6.Location = System.Drawing.Point(12, 180)
 		self._label6.Name = "label6"
 		self._label6.Size = System.Drawing.Size(100, 23)
 		self._label6.TabIndex = 5
@@ -79,7 +79,7 @@ class MainForm(Form):
 		# label7
 		# 
 		self._label7.BackColor = System.Drawing.Color.DarkSalmon
-		self._label7.Location = System.Drawing.Point(12, 404)
+		self._label7.Location = System.Drawing.Point(12, 146)
 		self._label7.Name = "label7"
 		self._label7.Size = System.Drawing.Size(100, 23)
 		self._label7.TabIndex = 6
@@ -88,7 +88,7 @@ class MainForm(Form):
 		# label8
 		# 
 		self._label8.BackColor = System.Drawing.Color.DarkSalmon
-		self._label8.Location = System.Drawing.Point(144, 273)
+		self._label8.Location = System.Drawing.Point(152, 41)
 		self._label8.Name = "label8"
 		self._label8.Size = System.Drawing.Size(100, 23)
 		self._label8.TabIndex = 7
@@ -96,7 +96,7 @@ class MainForm(Form):
 		# label9
 		# 
 		self._label9.BackColor = System.Drawing.Color.DarkSalmon
-		self._label9.Location = System.Drawing.Point(12, 359)
+		self._label9.Location = System.Drawing.Point(12, 111)
 		self._label9.Name = "label9"
 		self._label9.Size = System.Drawing.Size(100, 23)
 		self._label9.TabIndex = 8
@@ -105,7 +105,7 @@ class MainForm(Form):
 		# label10
 		# 
 		self._label10.BackColor = System.Drawing.Color.DarkSalmon
-		self._label10.Location = System.Drawing.Point(12, 314)
+		self._label10.Location = System.Drawing.Point(12, 74)
 		self._label10.Name = "label10"
 		self._label10.Size = System.Drawing.Size(100, 23)
 		self._label10.TabIndex = 9
@@ -114,21 +114,23 @@ class MainForm(Form):
 		# button1
 		# 
 		self._button1.BackColor = System.Drawing.Color.Moccasin
+		self._button1.Font = System.Drawing.Font("Microsoft Sans Serif", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
 		self._button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText
-		self._button1.Location = System.Drawing.Point(305, 139)
+		self._button1.Location = System.Drawing.Point(12, 277)
 		self._button1.Name = "button1"
-		self._button1.Size = System.Drawing.Size(117, 95)
+		self._button1.Size = System.Drawing.Size(240, 52)
 		self._button1.TabIndex = 10
+		self._button1.Text = "Calculate"
 		self._button1.UseVisualStyleBackColor = False
 		self._button1.Click += self.Button1Click
 		# 
 		# button2
 		# 
 		self._button2.BackColor = System.Drawing.Color.Moccasin
-		self._button2.Font = System.Drawing.Font("Microsoft Sans Serif", 26.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._button2.Location = System.Drawing.Point(305, 273)
+		self._button2.Font = System.Drawing.Font("Microsoft Sans Serif", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._button2.Location = System.Drawing.Point(12, 219)
 		self._button2.Name = "button2"
-		self._button2.Size = System.Drawing.Size(117, 95)
+		self._button2.Size = System.Drawing.Size(117, 52)
 		self._button2.TabIndex = 11
 		self._button2.Text = "clear"
 		self._button2.UseVisualStyleBackColor = False
@@ -137,10 +139,10 @@ class MainForm(Form):
 		# button3
 		# 
 		self._button3.BackColor = System.Drawing.Color.Moccasin
-		self._button3.Font = System.Drawing.Font("Microsoft Sans Serif", 26.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-		self._button3.Location = System.Drawing.Point(305, 404)
+		self._button3.Font = System.Drawing.Font("Microsoft Sans Serif", 15.75, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._button3.Location = System.Drawing.Point(135, 219)
 		self._button3.Name = "button3"
-		self._button3.Size = System.Drawing.Size(117, 95)
+		self._button3.Size = System.Drawing.Size(117, 52)
 		self._button3.TabIndex = 12
 		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = False
@@ -148,7 +150,7 @@ class MainForm(Form):
 		# 
 		# textBox1
 		# 
-		self._textBox1.Location = System.Drawing.Point(144, 199)
+		self._textBox1.Location = System.Drawing.Point(152, 9)
 		self._textBox1.Name = "textBox1"
 		self._textBox1.Size = System.Drawing.Size(100, 20)
 		self._textBox1.TabIndex = 13
@@ -156,16 +158,16 @@ class MainForm(Form):
 		# label11
 		# 
 		self._label11.BackColor = System.Drawing.Color.DarkSalmon
-		self._label11.Location = System.Drawing.Point(12, 196)
+		self._label11.Location = System.Drawing.Point(12, 9)
 		self._label11.Name = "label11"
 		self._label11.Size = System.Drawing.Size(100, 23)
 		self._label11.TabIndex = 14
-		self._label11.Text = "label11"
+		self._label11.Text = "Kilowatts Used"
 		# 
 		# MainForm
 		# 
-		self.BackColor = System.Drawing.Color.Olive
-		self.ClientSize = System.Drawing.Size(470, 552)
+		self.BackColor = System.Drawing.Color.IndianRed
+		self.ClientSize = System.Drawing.Size(264, 340)
 		self.Controls.Add(self._label11)
 		self.Controls.Add(self._textBox1)
 		self.Controls.Add(self._button3)
